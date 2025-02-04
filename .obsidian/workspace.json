@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SwiperJS/single chat.md",
+                "file": "SwiperJS/Partners.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "single chat"
+              "title": "Partners"
             }
           }
         ]
@@ -190,12 +190,13 @@
   },
   "active": "9cf6a5ffd25ff559",
   "lastOpenFiles": [
+    "SwiperJS/Breakpoints.md",
+    "SwiperJS/Partners.md",
+    "SwiperJS/single chat full screen.md",
     "SwiperJS/chatgpt.md",
     "SwiperJS/chatgptV2.0.md",
-    "SwiperJS/single chat.md",
     "SwiperJS/claudeAI.md",
     "NavBar/school-nav.md",
-    "SwiperJS/Untitled.md",
     "NavBar",
     "Untitled.md",
     "SwiperJS/o1.md",
