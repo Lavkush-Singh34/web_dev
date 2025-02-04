@@ -95,6 +95,7 @@ To make the Swiper look better, add some basic styles:
 .swiper-container {
   width: 100%;
   max-width: 800px; /* Set max width */
+  margin: auto;
   height: 500px;
   overflow: hidden;
 }
