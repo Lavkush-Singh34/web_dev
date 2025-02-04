@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SwiperJS/chatgptV2.0.md",
+                "file": "SwiperJS/single chat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chatgptV2.0"
+              "title": "single chat"
             }
           }
         ]
@@ -192,6 +192,7 @@
   "lastOpenFiles": [
     "SwiperJS/chatgpt.md",
     "SwiperJS/chatgptV2.0.md",
+    "SwiperJS/single chat.md",
     "SwiperJS/claudeAI.md",
     "NavBar/school-nav.md",
     "SwiperJS/Untitled.md",
