@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SwiperJS/chatgpt.md",
+                "file": "SwiperJS/chatgptV2.0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chatgpt"
+              "title": "chatgptV2.0"
             }
           }
         ]
@@ -190,12 +190,13 @@
   },
   "active": "9cf6a5ffd25ff559",
   "lastOpenFiles": [
+    "SwiperJS/chatgpt.md",
+    "SwiperJS/chatgptV2.0.md",
     "SwiperJS/claudeAI.md",
     "NavBar/school-nav.md",
     "SwiperJS/Untitled.md",
     "NavBar",
     "Untitled.md",
-    "SwiperJS/chatgpt.md",
     "SwiperJS/o1.md",
     "Tailwind/facilities not transparen (used grid-col-3).md",
     "SwiperJS",
