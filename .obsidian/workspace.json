@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NavBar/school-nav.md",
+                "file": "SwiperJS/chatgpt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "school-nav"
+              "title": "chatgpt"
             }
           }
         ]
@@ -188,10 +188,11 @@
       "khoj:Khoj": false
     }
   },
-  "active": "33cfe65af9912c1d",
+  "active": "9cf6a5ffd25ff559",
   "lastOpenFiles": [
-    "SwiperJS/Untitled.md",
+    "SwiperJS/claudeAI.md",
     "NavBar/school-nav.md",
+    "SwiperJS/Untitled.md",
     "NavBar",
     "Untitled.md",
     "SwiperJS/chatgpt.md",
