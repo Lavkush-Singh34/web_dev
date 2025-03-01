@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/ChatGPT 1.md",
+                "file": "Clippings/ChatGPT 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ChatGPT 1"
+              "title": "ChatGPT 2"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/ChatGPT 1.md",
+                "file": "Clippings/ChatGPT 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ChatGPT 1"
+              "title": "Outline of ChatGPT 2"
             }
           },
           {
@@ -181,13 +181,15 @@
   "active": "a362adf1f95cde2d",
   "lastOpenFiles": [
     "category.md",
+    "Clippings/ChatGPT 2.md",
+    "name perfume.md",
+    "shadcn.md",
+    "Untitled 1.md",
+    "Untitled.md",
     "Clippings/ChatGPT 1.md",
     "Clippings/ChatGPT.md",
     "Clippings/Claude.md",
-    "shadcn.md",
-    "Untitled.md",
     "printing press/commands.md",
-    "Untitled 1.md",
     "Clippings",
     "Welcome.md",
     "printing press/first command.md",
@@ -201,14 +203,12 @@
     "Tailwind/Smooth Hamburger.md",
     "Tailwind/academics.md",
     "gist.md",
-    "name perfume.md",
     "SwiperJS/chatgptV2.0.md",
     "contact-us.md",
     "SwiperJS/Partners.md",
     "NavBar/school-nav.md",
     "Image Optimization Tips.md",
     "SwiperJS/Breakpoints.md",
-    "SwiperJS/chatgpt.md",
     "NavBar",
     "SwiperJS",
     "Slider"
