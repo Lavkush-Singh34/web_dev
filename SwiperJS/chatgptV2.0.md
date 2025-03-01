@@ -1,4 +1,3 @@
-To use images from **Pexels** in your Swiper.js slider, follow these steps:
 
 ---
 
