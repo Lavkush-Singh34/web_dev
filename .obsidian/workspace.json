@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/web ui.md",
+                "file": "Clippings/Cloudflare Arch linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "web ui"
+              "title": "Cloudflare Arch linux"
             }
           },
           {
@@ -190,10 +190,11 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "0fc297be90a474ba",
+  "active": "4bc91d5290feb246",
   "lastOpenFiles": [
-    "Globe-react/idx want to use backend to store.md",
     "Clippings/web ui.md",
+    "Clippings/Cloudflare Arch linux.md",
+    "Globe-react/idx want to use backend to store.md",
     "Untitled 2.md",
     "term -1.md",
     "term-2.md",
@@ -222,7 +223,6 @@
     "Globe-react",
     "SwiperJS/single chat full screen.md",
     "Tailwind/facilities not transparen (used grid-col-3).md",
-    "Tailwind/Tailwind CLI.md",
     "NavBar",
     "SwiperJS",
     "Slider"
