@@ -4,33 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d9ccadd530e8e756",
+        "id": "6e9d4c07b44bfb5c",
         "type": "tabs",
         "children": [
           {
-            "id": "0fc297be90a474ba",
+            "id": "a278a92697b42e70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Cloudflare Arch linux.md",
+                "file": "Online ide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cloudflare Arch linux"
-            }
-          },
-          {
-            "id": "961c4d597cdacab3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "title": "Online ide"
             }
           }
         ]
@@ -52,8 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "byModifiedTime",
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -190,39 +178,39 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "4bc91d5290feb246",
+  "active": "a278a92697b42e70",
   "lastOpenFiles": [
-    "Clippings/web ui.md",
     "Clippings/Cloudflare Arch linux.md",
-    "Globe-react/idx want to use backend to store.md",
-    "Untitled 2.md",
+    "Clippings/ChatGPT 1.md",
+    "Clippings/ChatGPT.md",
+    "Clippings/Claude.md",
+    "SwiperJS/o1.md",
     "term -1.md",
-    "term-2.md",
-    "term-hi-2.md",
+    "shadcn.md",
+    "Slider/swiper fade effect.md",
+    "Slider/by claudeAI.md",
+    "printing press/commands.md",
+    "printing press/first command.md",
+    "Globe-react/idx want to use backend to store.md",
+    "Globe-react/Untitled.md",
     "Globe-react/Contact.jsx.md",
     "Git_tips/Delete previous commit.md",
+    "Clippings/wa.me.md",
+    "Untitled.md",
+    "term-hi-2.md",
+    "term-2.md",
+    "Online ide.md",
+    "Clippings/web ui.md",
+    "Untitled 2.md",
     "Untitled",
     "hindi me.md",
     "Git_tips",
     "ek no. Sunday, March 2, 2025.md",
     "category.md",
     "note 2025-03-01 0915 PM.md",
-    "name perfume.md",
-    "Clippings/ChatGPT 2.md",
-    "shadcn.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "Clippings/ChatGPT 1.md",
-    "Clippings/ChatGPT.md",
-    "Clippings/Claude.md",
-    "printing press/commands.md",
     "Clippings",
-    "Welcome.md",
-    "printing press/first command.md",
     "printing press",
     "Globe-react",
-    "SwiperJS/single chat full screen.md",
-    "Tailwind/facilities not transparen (used grid-col-3).md",
     "NavBar",
     "SwiperJS",
     "Slider"

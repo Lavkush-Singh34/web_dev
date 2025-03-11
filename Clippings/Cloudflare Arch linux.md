@@ -61,13 +61,13 @@ This will list the DNS servers assigned to your network interfaces.
 For a more detailed view, use:
 
 ```sh
-shgrep "nameserver" /etc/resolv.conf
+grep "nameserver" /etc/resolv.conf
 ```
 
 or check the DNS settings for a specific interface (like `wlan0` or `eth0`):
 
 ```sh
-shnmcli device show wlan0 | grep DNS
+nmcli device show wlan0 | grep DNS
 ```
 
 (Replace `wlan0` with your active network interface.)
@@ -79,13 +79,13 @@ shnmcli device show wlan0 | grep DNS
 To verify which DNS is actually being used for queries:
 
 ```sh
-shdig google.com
+dig google.com
 ```
 
 or
 
 ```sh
-shnslookup google.com
+nslookup google.com
 ```
 
 This will show which DNS server is resolving queries.
