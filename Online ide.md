@@ -151,3 +151,21 @@ return (
 )}
 export default App
 ```
+
+```jsx
+import './App.css'
+import { Button } from './components/ui/button'
+
+function App() {
+return (
+<>
+<div className="grid place-items-center h-screen bg-gradient-to-tr from-blue-950 to-red-900">
+
+{/* <h1 className='border-4 border-purple-500 text-6xl bg-amber-600 text-white rounded-lg p-4 font-bold font-primary animate-bounce'>Hello World</h1> */}
+<Button variant="destructive" className="bg-amber-300 font-nunito" >Click Me!</Button>
+{/* button bg is overwritten but not hover state */}
+</div>
+</>
+)}
+export default App
+```
