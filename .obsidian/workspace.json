@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6e9d4c07b44bfb5c",
+        "id": "94a4d169df511ea2",
         "type": "tabs",
         "children": [
           {
-            "id": "a278a92697b42e70",
+            "id": "08b484e3f26b3971",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Online ide.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Online ide"
+              "title": "New tab"
             }
           }
         ]
@@ -178,34 +174,34 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "a278a92697b42e70",
+  "active": "08b484e3f26b3971",
   "lastOpenFiles": [
+    "Online ide.md",
+    "Untitled 2.md",
+    "term-hi-2.md",
+    "term-2.md",
+    "hindi me.md",
+    "term -1.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "contact-us.md",
+    "name perfume.md",
+    "Image Optimization Tips.md",
+    "Globe-react/idx want to use backend to store.md",
+    "Git_tips/Delete previous commit.md",
     "Tailwind/facilities not transparen (used grid-col-3).md",
     "Tailwind/Smooth Hamburger.md",
     "Tailwind/academics.md",
     "Tailwind/Tailwind CLI.md",
     "Tailwind/start tailwind project.md",
-    "term -1.md",
     "note 2025-03-01 0915 PM.md",
     "shadcn.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "name perfume.md",
     "gist.md",
-    "Image Optimization Tips.md",
-    "Online ide.md",
     "Clippings/Cloudflare Arch linux.md",
     "Clippings/ChatGPT 1.md",
     "Clippings/ChatGPT.md",
     "Clippings/Claude.md",
     "SwiperJS/o1.md",
-    "Slider/swiper fade effect.md",
-    "Slider/by claudeAI.md",
-    "printing press/commands.md",
-    "printing press/first command.md",
-    "Globe-react/idx want to use backend to store.md",
-    "Globe-react/Untitled.md",
-    "Globe-react/Contact.jsx.md",
     "Untitled",
     "Git_tips",
     "Clippings",
