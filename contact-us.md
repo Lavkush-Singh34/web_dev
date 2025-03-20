@@ -1,4 +1,4 @@
-(i am learning how to use appwrite for backend to receive data from website and want to make admin panel for websites like ecommerce) i want to make a admin page to get users data like name, email, mobile no. measseage, photo. help me to create this page using html+tailwind and i want to use appwrite for backend. also make a page for clinets where they can put their data.
+ (i am learning how to use appwrite for backend to receive data from website and want to make admin panel for websites like ecommerce) i want to make a admin page to get users data like name, email, mobile no. measseage, photo. help me to create this page using html+tailwind and i want to use appwrite for backend. also make a page for clinets where they can put their data.
 
 
 ╭─lavkush@archlinux ~/Desktop/appwrite/contact-2  

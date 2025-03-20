@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "94a4d169df511ea2",
+        "id": "e0780d023d1aa55e",
         "type": "tabs",
         "children": [
           {
-            "id": "08b484e3f26b3971",
+            "id": "6d019570d4a69caf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Globe-react/website roadmap.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "website roadmap"
             }
           }
         ]
@@ -37,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTime",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -174,17 +178,24 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "08b484e3f26b3971",
+  "active": "6d019570d4a69caf",
   "lastOpenFiles": [
+    "Globe-react/website roadmap.md",
+    "eCommerce/prompt.md",
+    "Untitled 3.md",
+    "eCommerce/eCommerce project tree.md",
+    "contact-us.md",
+    "eCommerce",
+    "Untitled.canvas",
+    "Untitled.md",
+    "Untitled 1.md",
+    "2025-03-18.md",
     "Online ide.md",
     "Untitled 2.md",
     "term-hi-2.md",
     "term-2.md",
     "hindi me.md",
     "term -1.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "contact-us.md",
     "name perfume.md",
     "Image Optimization Tips.md",
     "Globe-react/idx want to use backend to store.md",
@@ -197,12 +208,6 @@
     "note 2025-03-01 0915 PM.md",
     "shadcn.md",
     "gist.md",
-    "Clippings/Cloudflare Arch linux.md",
-    "Clippings/ChatGPT 1.md",
-    "Clippings/ChatGPT.md",
-    "Clippings/Claude.md",
-    "SwiperJS/o1.md",
-    "Untitled",
     "Git_tips",
     "Clippings",
     "printing press",

@@ -1,0 +1,1 @@
+i want to build a full-stack e-commerce website for learning purposes using Bun.js, React (Vite), Tailwind CSS v4.0 (alpha), React Router, Framer Motion, Zod, Node.js + Express, and MongoDB, and use some other industry standard for better
