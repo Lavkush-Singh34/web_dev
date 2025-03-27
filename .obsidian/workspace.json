@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/revert to latest commit.md",
+                "file": "Clippings/remove git tracking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "revert to latest commit"
+              "title": "remove git tracking"
             }
           }
         ]
@@ -178,9 +178,10 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "4ffffb65d4c2d125",
+  "active": "4bc91d5290feb246",
   "lastOpenFiles": [
     "Clippings/revert to latest commit.md",
+    "Clippings/remove git tracking.md",
     "smb/SMB Over SSH Tunneling.md",
     "Untitled 1.md",
     "eCommerce/eCommerce project tree.md",
@@ -210,7 +211,6 @@
     "term-2.md",
     "hindi me.md",
     "term -1.md",
-    "Image Optimization Tips.md",
     "Git_tips",
     "Clippings",
     "printing press",
