@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Custom Photo Mug - White",
+    "slug": "custom-photo-mug-white",
+    "description": "Start your day with a smile! Print your favorite photo on this classic white ceramic mug. Dishwasher and microwave safe.",
+    "price": 399,
+    "oldPrice": 499,
+    "category": "mug",
+    "image": "/assets/products/mug_white.jpg",
+    "featured": true,
+    "isActive": true,
+    "sku": "MUG-WHT-001",
+    "stock": 50
+  },
+  {
+    "name": "Magic Color Changing Mug",
+    "slug": "magic-color-changing-mug",
+    "description": "Surprise! Pour in hot liquid and watch your hidden image appear. A fun gift for any occasion.",
+    "price": 599,
+    "category": "mug",
+    "image": "/assets/products/mug_magic.jpg",
+    "featured": true,
+    "isActive": true,
+    "sku": "MUG-MAG-001",
+    "stock": 30
+  },
+  {
+    "name": "Ergonomic Gaming Mouse Pad",
+    "slug": "ergonomic-gaming-mouse-pad",
+    "description": "Enhance your gaming experience with this large, non-slip mouse pad featuring a comfortable wrist rest.",
+    "price": 799,
+    "category": "mousepad",
+    "image": "/assets/products/mousepad_gaming.jpg",
+    "featured": false,
+    "isActive": true,
+    "sku": "MPAD-GAM-001",
+    "stock": 100
+  },
+  {
+    "name": "Personalized Desk Mouse Pad",
+    "slug": "personalized-desk-mouse-pad",
+    "description": "Add your company logo or a personal design to this sleek and durable desk mouse pad.",
+    "price": 450,
+    "category": "mousepad",
+    "image": "/assets/products/mousepad_desk.jpg",
+    "featured": true,
+    "isActive": true,
+    "sku": "MPAD-DSK-001",
+    "stock": 75
+  },
+  {
+    "name": "Classic Wooden Photo Frame (6x4)",
+    "slug": "classic-wooden-photo-frame-6x4",
+    "description": "Display your cherished memories in this elegant wooden photo frame. Fits standard 6x4 inch photos.",
+    "price": 299,
+    "category": "photoframe",
+    "image": "/assets/products/frame_wood_6x4.jpg",
+    "featured": false,
+    "isActive": true,
+    "sku": "FRAM-WD-64",
+    "stock": 120
+  },
+  {
+    "name": "Modern Acrylic Block Frame",
+    "slug": "modern-acrylic-block-frame",
+    "description": "A contemporary way to showcase your photos. This freestanding acrylic block adds a touch of style.",
+    "price": 650,
+    "category": "photoframe",
+    "image": "/assets/products/frame_acrylic.jpg",
+    "featured": false,
+    "isActive": true,
+    "sku": "FRAM-ACR-BLK",
+    "stock": 40
+  },
+  {
+    "name": "Insulated Stainless Steel Bottle (750ml)",
+    "slug": "insulated-stainless-steel-bottle-750ml",
+    "description": "Keep your drinks hot or cold for hours with this durable, leak-proof stainless steel bottle.",
+    "price": 899,
+    "oldPrice": 999,
+    "category": "bottle",
+    "image": "/assets/products/bottle_steel_750.jpg",
+    "featured": true,
+    "isActive": true,
+    "sku": "BOTL-SS-750",
+    "stock": 60
+  },
+  {
+    "name": "Custom Engraved Metal Keychain",
+    "slug": "custom-engraved-metal-keychain",
+    "description": "Personalize this sturdy metal keychain with a name, date, or short message. Great for gifts.",
+    "price": 249,
+    "category": "keychain",
+    "image": "/assets/products/keychain_metal.jpg",
+    "featured": false,
+    "isActive": true,
+    "sku": "KEYC-MTL-ENG",
+    "stock": 200
+  },
+  {
+    "name": "Photo Insert Acrylic Keychain",
+    "slug": "photo-insert-acrylic-keychain",
+    "description": "Carry your favorite small photo with you everywhere with this clear acrylic keychain.",
+    "price": 199,
+    "category": "keychain",
+    "image": "/assets/products/keychain_acrylic.jpg",
+    "featured": false,
+    "isActive": true,
+    "sku": "KEYC-ACR-PHT",
+    "stock": 150
+  }
+]

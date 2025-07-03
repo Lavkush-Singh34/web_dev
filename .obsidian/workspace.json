@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "54093e91d1fd67ab",
+        "id": "a1843ea21a15542b",
         "type": "tabs",
         "children": [
           {
-            "id": "4ffffb65d4c2d125",
+            "id": "ee91eb1d6a63c440",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/remove git tracking.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "remove git tracking"
+              "title": "New tab"
             }
           }
         ]
@@ -135,36 +131,27 @@
             }
           },
           {
-            "id": "bcadb994cf850b21",
+            "id": "9a4c5d74423aca44",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/ChatGPT 2.md",
+                "file": "eCommerce/industy standard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ChatGPT 2"
-            }
-          },
-          {
-            "id": "4bc91d5290feb246",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of industy standard"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,44 +165,44 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "4bc91d5290feb246",
+  "active": "ee91eb1d6a63c440",
   "lastOpenFiles": [
-    "Clippings/revert to latest commit.md",
-    "Clippings/remove git tracking.md",
-    "smb/SMB Over SSH Tunneling.md",
-    "Untitled 1.md",
-    "eCommerce/eCommerce project tree.md",
-    "smb",
-    "eCommerce/prompt.md",
-    "Wifi.md",
-    "name perfume.md",
-    "note 2025-03-01 0915 PM.md",
-    "Prompt/incompleted store.md",
-    "Prompt/express.md",
-    "Prompt",
-    "Youtube Transcript/yt.md",
-    "Youtube Transcript/Untitled.md",
-    "Untitled.md",
-    "Youtube Transcript",
-    "Globe-react/website roadmap.md",
+    "download the video.md",
+    "term-2.md",
+    "Online ide.md",
     "Globe-react/idx want to use backend to store.md",
-    "Globe-react/Contact.jsx.md",
-    "contact-us.md",
-    "Untitled 3.md",
+    "eCommerce/prompt.md",
+    "Clippings/ChatGPT 1.md",
+    "Computer Course.md",
+    "testing.md",
+    "general rules for converting singular nouns to plural in English.md",
+    "Untitled 10.md",
+    "Untitled 9.md",
+    "Untitled 7.md",
+    "Untitled 8.md",
+    "Untitled 6.md",
+    "Clippings/Cloudflare Arch linux.md",
+    "Hello there.md",
+    "Clippings/remove git tracking.md",
+    "backend snippets.md",
+    "backend.md",
+    "backend packages Controllers.md",
+    "ai article.md",
+    "images for article.md",
+    "Clippings/web ui.md",
+    "Clippings/ChatGPT.md",
+    "article.md",
+    "Indian Education.md",
+    "React-template",
+    "smb",
+    "Prompt",
+    "Youtube Transcript",
     "eCommerce",
     "Untitled.canvas",
-    "2025-03-18.md",
-    "Online ide.md",
-    "Untitled 2.md",
-    "term-hi-2.md",
-    "term-2.md",
-    "hindi me.md",
-    "term -1.md",
     "Git_tips",
     "Clippings",
     "printing press",
     "Globe-react",
-    "NavBar",
-    "SwiperJS"
+    "NavBar"
   ]
 }

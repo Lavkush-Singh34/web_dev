@@ -1,0 +1,2 @@
+## INSTRUCTIONS FOR CANDIDATES
+1. The OMR Answer Sheet is inside this Test Booklet, When you are directed to open the Test Booklet, take out the Answer Sheet and fill in the particulars on Side-1 and Side-2 care fully with **Side-1** and **Side-2** carefully with **Blue/Black** **Ballpoint Pen** only.
